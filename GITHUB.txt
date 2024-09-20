@@ -1,0 +1,55 @@
+GITHUB
+
+SDLC: It is a process used by s/w development teams to design, test and develop high quality s/w.
+
+SDLC Phases
+*Requirement Analysis
+*System Analysis
+*Design
+*Implementation
+*Testing
+*Deployment
+*Maintenance
+
+VERSION CONTROL : It is a system that track the file changes
+
+**Centralized Version Control : Server changes made are automatically updated
+**Distributed Version Control : It will updated locally then made to send to the server (GIT)
+
+GIT is a distributed Version control System that tracks version of files. It is often used to control source code by programmers who are developing s/w collaboratively.
+
+GITHUB is a online s/w development platform. It is used to storing, tracking and collaborating on s/w projects.
+VERSION changes can be : Major, minor, bugfixes(patch version)
+
+GITHUB FUNDAMENTALS
+-GitHub Administration
+-GitHub Action
+-GitHub Advance Security
+-Copilot : similar to chatgpt
+
+GITHUB FEATURE
+#Source Code Management
+#Project Management
+#Wiki
+#Discussion
+#Code Owners
+#Branch Rule Protection
+#Rule sets
+#CodeSpace
+#GitHub action
+#Advance Security
+#Copilot
+
+GITHUB PLANS
+*Free
+*Teams
+*Enterprise
+
+GITHUB HEIRARCHY
+#Enterprise------------>#Organization-------------->#Repository
+
+$ git config --global user.email "preethia@devtools.in"
+$ git config --global user.name "Preethi Anand"
+
+$ git remote -v
+$ git remote add origin url of clone(https, ssh)
